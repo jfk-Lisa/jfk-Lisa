@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237B2FBE.svg?logo=linkedin&logoColor=white)](https://github.com/jfk-Lisa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%237B2FBE.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jannatul-ferdaus-khan-lisa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%237B2FBE.svg?logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 [![Email](https://img.shields.io/badge/Email-%237B2FBE.svg?logo=gmail&logoColor=white)](mailto:lisakhan18301208@gmail.com)
 
